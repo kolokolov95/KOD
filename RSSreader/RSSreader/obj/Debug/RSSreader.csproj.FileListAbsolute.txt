@@ -1,0 +1,9 @@
+D:\git\RSSreader\RSSreader\bin\Debug\RSSreader.exe.config
+D:\git\RSSreader\RSSreader\obj\Debug\RSSreader.csprojResolveAssemblyReference.cache
+D:\git\RSSreader\RSSreader\obj\Debug\RSSreader.Form1.resources
+D:\git\RSSreader\RSSreader\obj\Debug\RSSreader.Properties.Resources.resources
+D:\git\RSSreader\RSSreader\obj\Debug\RSSreader.csproj.GenerateResource.Cache
+D:\git\RSSreader\RSSreader\bin\Debug\RSSreader.exe
+D:\git\RSSreader\RSSreader\bin\Debug\RSSreader.pdb
+D:\git\RSSreader\RSSreader\obj\Debug\RSSreader.exe
+D:\git\RSSreader\RSSreader\obj\Debug\RSSreader.pdb
